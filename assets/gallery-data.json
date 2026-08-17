@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "sizeClass": "wide",
+    "groups": ["kolkata", "university"],
+    "src": "https://picsum.photos/1600/1000?random=11",
+    "alt": "Kolkata University Campus",
+    "title": "Kolkata Campus",
+    "desc": "Main historical University grounds"
+  },
+  {
+    "id": 2,
+    "sizeClass": "",
+    "groups": ["lab"],
+    "src": "https://picsum.photos/1200/900?random=12",
+    "alt": "Research Lab Equipment",
+    "title": "Quantum Lab",
+    "desc": "Spectroscopy laser testing setup"
+  },
+  {
+    "id": 3,
+    "sizeClass": "tall",
+    "groups": ["seattle", "university"],
+    "src": "https://picsum.photos/1200/1600?random=13",
+    "alt": "Seattle Campus Architecture",
+    "title": "Seattle Center",
+    "desc": "University library complex"
+  },
+  {
+    "id": 4,
+    "sizeClass": "",
+    "groups": ["collage"],
+    "src": "https://picsum.photos/1200/900?random=14",
+    "alt": "Student Life Grid",
+    "title": "Campus Culture",
+    "desc": "Student moodboard collage"
+  },
+  {
+    "id": 5,
+    "sizeClass": "",
+    "groups": ["kolkata", "lab"],
+    "src": "https://picsum.photos/1200/900?random=15",
+    "alt": "Kolkata Chemistry Facility",
+    "title": "Kolkata Lab Facility",
+    "desc": "Organic chemistry processing bay"
+  },
+  {
+    "id": 6,
+    "sizeClass": "wide",
+    "groups": ["seattle", "lab"],
+    "src": "https://picsum.photos/1600/1000?random=16",
+    "alt": "Seattle Biomedical Lab",
+    "title": "Seattle Bio-Tech",
+    "desc": "Cleanroom workspace clusters"
+  },
+  {
+    "id": 7,
+    "sizeClass": "",
+    "groups": ["university", "collage"],
+    "src": "https://picsum.photos/1200/900?random=17",
+    "alt": "University Event Collage",
+    "title": "Graduation Grid",
+    "desc": "Commencement event mosaic"
+  }
+]

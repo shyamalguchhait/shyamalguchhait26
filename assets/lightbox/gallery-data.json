@@ -1,0 +1,1720 @@
+[
+  {
+    "id": 1,
+    "sizeClass": "",
+    "groups": ["phD"],
+    "src": "./assets/lightbox/0/IMG_20240620_100923.jpg",
+    "alt": "Large auditorium filled with attendees before convocation ceremony",
+    "title": "Convocation Auditorium",
+    "desc": "Wide view of the IISER phD convocation auditorium with attendees seated before the ceremony."
+  },
+  {
+    "id": 2,
+    "sizeClass": "wide",
+    "groups": ["phD"],
+    "src": "./assets/lightbox/0/DEB01539.JPG",
+    "alt": "Decorated convocation stage at IISER phD",
+    "title": "Main Convocation Stage",
+    "desc": "The main stage setup featuring the IISER phD logo, floral decorations, and ceremonial chairs."
+  },
+  {
+    "id": 3,
+    "sizeClass": "",
+    "groups": ["phD"],
+    "src": "./assets/lightbox/0/DEB01559.JPG",
+    "alt": "Decorative bowl with floating flowers",
+    "title": "Floral Decoration",
+    "desc": "A decorative arrangement of floating flowers used during the convocation event."
+  },
+  {
+    "id": 4,
+    "sizeClass": "wide",
+    "groups": ["phD"],
+    "src": "./assets/lightbox/0/DEB01610.JPG",
+    "alt": "Audience seated inside the convocation hall",
+    "title": "Audience Gathering",
+    "desc": "Family members, guests, and attendees seated inside the auditorium during the event."
+  },
+  {
+    "id": 5,
+    "sizeClass": "wide",
+    "groups": ["phD"],
+    "src": "./assets/lightbox/0/DEB01612.JPG",
+    "alt": "Graduating students seated in white attire with yellow stoles",
+    "title": "Graduating Students",
+    "desc": "Students dressed in traditional convocation attire waiting for the ceremony to begin."
+  },
+  {
+    "id": 6,
+    "sizeClass": "tall",
+    "groups": ["phD"],
+    "src": "./assets/lightbox/0/DEB01630.JPG",
+    "alt": "Dignitaries standing on the convocation stage",
+    "title": "Ceremonial Guests",
+    "desc": "Dignitaries and faculty members standing on stage during the formal proceedings."
+  },
+  {
+    "id": 7,
+    "sizeClass": "",
+    "groups": ["phD"],
+    "src": "./assets/lightbox/0/DEB01914.JPG",
+    "alt": "Graduate receiving certificates during convocation",
+    "title": "Degree Presentation",
+    "desc": "A graduate receiving degree certificates from a senior official during the ceremony."
+  },
+  {
+    "id": 8,
+    "sizeClass": "",
+    "groups": ["phD"],
+    "src": "./assets/lightbox/0/DEB01916.JPG",
+    "alt": "Graduate posing with certificates on stage",
+    "title": "Certificate Moment",
+    "desc": "Graduate posing proudly with certificates after receiving the award."
+  },
+  {
+    "id": 9,
+    "sizeClass": "",
+    "groups": ["kolkala"],
+    "src": "./assets/lightbox/0/IMG_20240620_100859.jpg",
+    "alt": "Wide shot of convocation hall and stage setup",
+    "title": "Full Hall View",
+    "desc": "Panoramic view of the convocation hall showcasing the audience and decorated stage."
+  },
+
+  {
+    "id": 10,
+    "sizeClass": "wide",
+    "groups": ["iISER"],
+    "src": "./assets/lightbox/1/IMG_20240818_164656.jpg",
+    "alt": "Bicycles parked under covered shelters surrounded by trees and greenery",
+    "title": "Bicycle Shelter",
+    "desc": "Bicycles parked in covered bicycle shelters overlooking a green open area on campus."
+  },
+  {
+    "id": 11,
+    "sizeClass": "tall",
+    "groups": ["iISER"],
+    "src": "./assets/lightbox/1/0.jpg",
+    "alt": "Campus road beside a pond under a cloudy evening sky",
+    "title": "Campus Road",
+    "desc": "A quiet campus road running alongside a pond and green landscape beneath a dramatic evening sky."
+  },
+  {
+    "id": 12,
+    "sizeClass": "",
+    "groups": ["iISER"],
+    "src": "./assets/lightbox/1/5.jpg",
+    "alt": "Blue sky filled with layered white clouds above trees",
+    "title": "Cloudy Blue Sky",
+    "desc": "A beautiful view of layered white clouds across a bright blue sky."
+  },
+  {
+    "id": 13,
+    "sizeClass": "",
+    "groups": ["iISER"],
+    "src": "./assets/lightbox/1/1662712107488.jpg",
+    "alt": "Landscaped campus roundabout with palm trees and greenery",
+    "title": "Campus Roundabout",
+    "desc": "A landscaped campus roundabout featuring palm trees, trimmed hedges, and extensive greenery."
+  },
+  {
+    "id": 14,
+    "sizeClass": "tall",
+    "groups": ["iISER"],
+    "src": "./assets/lightbox/1/1662712107534.jpg",
+    "alt": "Dense green vegetation and mature trees on campus",
+    "title": "Campus Greenery",
+    "desc": "Dense natural vegetation covering an open area beneath mature campus trees."
+  },
+  {
+    "id": 15,
+    "sizeClass": "wide",
+    "groups": ["iISER"],
+    "src": "./assets/lightbox/1/1662712281174.jpg",
+    "alt": "Campus buildings surrounded by landscaped gardens viewed from above",
+    "title": "Campus Overview",
+    "desc": "An elevated view of campus buildings, landscaped gardens, roads, and surrounding greenery."
+  },
+  {
+    "id": 16,
+    "sizeClass": "wide",
+    "groups": ["iISER"],
+    "src": "./assets/lightbox/1/1662712281194.jpg",
+    "alt": "Curving campus road lined with flowering trees and palm trees",
+    "title": "Flower Lined Road",
+    "desc": "A peaceful curved campus road bordered by flowering trees, palms, and landscaped greenery."
+  },
+  {
+    "id": 17,
+    "sizeClass": "wide",
+    "groups": ["iISER"],
+    "src": "./assets/lightbox/1/IMG_20200830_181059.jpg",
+    "alt": "Pink and purple sunset over trees and campus grounds",
+    "title": "Pink Sunset",
+    "desc": "A vivid pink and purple sunset silhouetting trees and campus surroundings."
+  },
+  {
+    "id": 18,
+    "sizeClass": "",
+    "groups": ["iISER"],
+    "src": "./assets/lightbox/1/IMG_20201210_225705.jpg",
+    "alt": "Dark campus road surrounded by dense vegetation and illuminated by a streetlight",
+    "title": "Night Campus Road",
+    "desc": "A quiet campus road at night surrounded by dense vegetation and illuminated by distant lights."
+  },
+  {
+    "id": 19,
+    "sizeClass": "",
+    "groups": ["iISER"],
+    "src": "./assets/lightbox/1/IMG_20210313_162615.jpg",
+    "alt": "Campus road and buildings under the setting sun",
+    "title": "Campus at Sunset",
+    "desc": "A campus road curving toward residential buildings during a hazy sunset."
+  },
+  {
+    "id": 20,
+    "sizeClass": "wide",
+    "groups": ["iISER"],
+    "src": "./assets/lightbox/1/IMG_20210522_182749.jpg",
+    "alt": "Basketball court reflecting a pink sunset sky",
+    "title": "Basketball Court at Sunset",
+    "desc": "A basketball court reflecting a striking pink and purple evening sky."
+  },
+  {
+    "id": 21,
+    "sizeClass": "tall",
+    "groups": ["iISER"],
+    "src": "./assets/lightbox/1/IMG_20210524_180656.jpg",
+    "alt": "Campus road crossing a bridge beneath flowering red trees",
+    "title": "Flowering Trees",
+    "desc": "A campus road and bridge surrounded by lush vegetation and flowering red trees."
+  },
+  {
+    "id": 22,
+    "sizeClass": "",
+    "groups": ["iISER"],
+    "src": "./assets/lightbox/1/IMG_20210525_182029.jpg",
+    "alt": "Campus buildings and landscaped grounds beneath a dramatic evening sky",
+    "title": "Campus Skyline",
+    "desc": "Campus buildings and landscaped grounds beneath a dramatic cloudy evening sky."
+  },
+  {
+    "id": 23,
+    "sizeClass": "",
+    "groups": ["iISER"],
+    "src": "./assets/lightbox/1/IMG_20210711_145633.jpg",
+    "alt": "Campus buildings surrounded by green lawns under bright sunlight",
+    "title": "Campus Buildings",
+    "desc": "Modern campus buildings surrounded by lawns, trees, and landscaped pathways."
+  },
+  {
+    "id": 24,
+    "sizeClass": "wide",
+    "groups": ["iISER"],
+    "src": "./assets/lightbox/1/IMG_20210711_173942.jpg",
+    "alt": "Rainbow appearing over green campus vegetation after rain",
+    "title": "Rainbow Over Campus",
+    "desc": "A faint rainbow appearing above lush campus vegetation after rainfall."
+  },
+  {
+    "id": 25,
+    "sizeClass": "",
+    "groups": ["iISER"],
+    "src": "./assets/lightbox/1/IMG_20210906_171822.jpg",
+    "alt": "Campus road and buildings silhouetted against a dramatic sunset",
+    "title": "Evening Campus",
+    "desc": "A quiet campus road and surrounding buildings silhouetted against a dramatic evening sky."
+  },
+  {
+    "id": 26,
+    "sizeClass": "wide",
+    "groups": ["iISER"],
+    "src": "./assets/lightbox/1/IMG_20220424_213552.jpg",
+    "alt": "Group of student posing on a football field with trophies",
+    "title": "Football Team Celebration",
+    "desc": "A group of students celebrating on the football field with trophies after a tournament."
+  },
+  {
+    "id": 27,
+    "sizeClass": "tall",
+    "groups": ["iISER"],
+    "src": "./assets/lightbox/1/IMG_20220509_180923.jpg",
+    "alt": "Campus road and buildings surrounded by greenery under a bright blue sky",
+    "title": "Campus Landscape",
+    "desc": "A sunlit campus landscape with a wet road, greenery, trees, and residential buildings beneath a bright blue sky."
+  },
+  {
+    "id": 28,
+    "sizeClass": "wide",
+    "groups": ["iISER"],
+    "src": "./assets/lightbox/1/IMG_20220619_173235.jpg",
+    "alt": "Landscaped campus courtyard with buildings and greenery",
+    "title": "Campus Courtyard",
+    "desc": "A landscaped campus courtyard featuring circular gardens, buildings, pathways, and bicycle shelters."
+  },
+  {
+    "id": 29,
+    "sizeClass": "wide",
+    "groups": ["iISER"],
+    "src": "./assets/lightbox/1/IMG_20220625_182146.jpg",
+    "alt": "Golden sunset over an open green field surrounded by trees and buildings",
+    "title": "Golden Sunset",
+    "desc": "A golden sunset illuminating an open green field with trees and campus buildings in the distance."
+  },
+
+  {
+    "id": 30,
+    "sizeClass": "wide",
+    "groups": ["lab"],
+    "src": "./assets/lightbox/2/FB_IMG_1546934096396.jpg",
+    "alt": "Group: 2019, PhD group outing",
+    "title": "Group 2019: PhD Group Outing",
+    "desc": "PhD group during an outdoor trip at a nature and wildlife location"
+  },
+  {
+    "id": 31,
+    "sizeClass": "",
+    "groups": ["lab"],
+    "src": "./assets/lightbox/2/IMG-20190106-WA0026.jpg",
+    "alt": "Group: 2019, PhD group outing",
+    "title": "Group 2019: PhD Group Outing",
+    "desc": "PhD group enjoying a winter outing together"
+  },
+  {
+    "id": 32,
+    "sizeClass": "tall",
+    "groups": ["lab"],
+    "src": "./assets/lightbox/2/IMG-20190108-WA0023.jpg",
+    "alt": "Group: 2019, PhD group outing",
+    "title": "Group 2019: PhD Group Outing",
+    "desc": "PhD group during a group visit and outdoor gathering"
+  },
+  {
+    "id": 33,
+    "sizeClass": "",
+    "groups": ["lab"],
+    "src": "./assets/lightbox/2/IMG-20190215-WA0007.jpg",
+    "alt": "Group: 2019, lab celebration",
+    "title": "Group 2019: Lab Celebration",
+    "desc": "PhD group celebrating together outside the laboratory"
+  },
+  {
+    "id": 34,
+    "sizeClass": "",
+    "groups": ["lab"],
+    "src": "./assets/lightbox/2/IMG-20190222-WA0005.jpg",
+    "alt": "Group: 2019, PhD group celebration",
+    "title": "Group 2019: PhD Group Celebration",
+    "desc": "PhD group gathering together for a celebration"
+  },
+  {
+    "id": 35,
+    "sizeClass": "wide",
+    "groups": ["lab"],
+    "src": "./assets/lightbox/2/IMG-20190713-WA0012.jpg",
+    "alt": "Group: 2019, PhD group outing",
+    "title": "Group 2019: PhD Group Outing",
+    "desc": "PhD group during an outdoor nature outing"
+  },
+  {
+    "id": 36,
+    "sizeClass": "wide",
+    "groups": ["lab"],
+    "src": "./assets/lightbox/2/18.jpg",
+    "alt": "Group: 2019, lab group",
+    "title": "Group 2019: Lab Group",
+    "desc": "PhD group gathered together during a laboratory celebration"
+  },
+  {
+    "id": 37,
+    "sizeClass": "tall",
+    "groups": ["lab"],
+    "src": "./assets/lightbox/2/9.jpg",
+    "alt": "Group: 2019, lab group",
+    "title": "Group 2019: Lab Group",
+    "desc": "PhD group gathering and celebrating together"
+  },
+  {
+    "id": 38,
+    "sizeClass": "",
+    "groups": ["lab"],
+    "src": "./assets/lightbox/2/3.jpg",
+    "alt": "Group: 2020, PhD group",
+    "title": "Group 2020: PhD Group",
+    "desc": "PhD group during an outdoor group gathering"
+  },
+  {
+    "id": 39,
+    "sizeClass": "",
+    "groups": ["lab"],
+    "src": "./assets/lightbox/2/1662712384557.jpg",
+    "alt": "Group: 2022, PhD group",
+    "title": "Group 2022: PhD Group",
+    "desc": "PhD group gathered together during an outdoor activity"
+  },
+  {
+    "id": 40,
+    "sizeClass": "wide",
+    "groups": ["lab"],
+    "src": "./assets/lightbox/2/IMG_20220405_120401.jpg",
+    "alt": "Group: 2022, PhD group outing",
+    "title": "Group 2022: PhD Group Outing",
+    "desc": "PhD group during an outdoor trip and group activity"
+  },
+  {
+    "id": 41,
+    "sizeClass": "tall",
+    "groups": ["lab", "celebration"],
+    "src": "./assets/lightbox/2/IMG_20230628_204522.jpg",
+    "alt": "Group: 2023, lab celebration",
+    "title": "Group 2023: Lab Celebration",
+    "desc": "PhD group celebrating together in the laboratory"
+  },
+  {
+    "id": 42,
+    "sizeClass": "wide",
+    "groups": ["lab", "celebration"],
+    "src": "./assets/lightbox/2/IMG_20240216_120733.jpg",
+    "alt": "Group: 2024, PhD group",
+    "title": "Group 2024: PhD Group",
+    "desc": "PhD group gathered together for a laboratory celebration"
+  },
+  {
+    "id": 43,
+    "sizeClass": "wide",
+    "groups": ["lab", "celebration"],
+    "src": "./assets/lightbox/2/IMG_20240216_135454.jpg",
+    "alt": "Group: 2024, PhD group",
+    "title": "Group 2024: PhD Group",
+    "desc": "PhD group together during a lab gathering and celebration"
+  },
+  {
+    "id": 44,
+    "sizeClass": "",
+    "groups": ["lab", "celebration"],
+    "src": "./assets/lightbox/2/IMG_20240618_153055.jpg",
+    "alt": "Group: 2024, PhD group",
+    "title": "Group 2024: PhD Group",
+    "desc": "PhD group celebrating together in the laboratory"
+  },
+  {
+    "id": 45,
+    "sizeClass": "tall",
+    "groups": ["lab", "outing"],
+    "src": "./assets/lightbox/2/IMG_20240618_224306.jpg",
+    "alt": "Group: 2024, PhD group dinner",
+    "title": "Group 2024: Group Dinner",
+    "desc": "PhD group enjoying dinner together at a restaurant"
+  },
+  {
+    "id": 46,
+    "sizeClass": "wide",
+    "groups": ["lab", "outing"],
+    "src": "./assets/lightbox/2/IMG_20240620_155252.jpg",
+    "alt": "Group: 2024, PhD group",
+    "title": "Group 2024: PhD Group",
+    "desc": "PhD group gathered together during a group event"
+  },
+  {
+    "id": 47,
+    "sizeClass": "wide",
+    "groups": ["lab", "outing"],
+    "src": "./assets/lightbox/2/IMG_20240807_221111.jpg",
+    "alt": "Group: 2024, PhD group dinner",
+    "title": "Group 2024: Group Dinner",
+    "desc": "PhD group enjoying a dinner gathering together"
+  },
+  {
+    "id": 48,
+    "sizeClass": "",
+    "groups": ["lab", "celebration"],
+    "src": "./assets/lightbox/2/IMG_20240814_230615.jpg",
+    "alt": "Group: 2024, PhD group celebration",
+    "title": "Group 2024: PhD Group Celebration",
+    "desc": "PhD group gathered together for a celebration and farewell"
+  },
+  {
+    "id": 49,
+    "sizeClass": "wide",
+    "groups": ["lab", "outing"],
+    "src": "./assets/lightbox/2/8.jpg",
+    "alt": "Group: 2019, PhD group outing",
+    "title": "Group 2019: PhD Group Outing",
+    "desc": "PhD group walking together during a nature outing"
+  },
+
+  {
+    "id": 50,
+    "sizeClass": "tall",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/20250413_193316.jpg",
+    "alt": "Digha Sea Beach at night",
+    "title": "Digha Sea Beach",
+    "desc": "A moonlit view of the sea at Digha, with waves breaking along the shore."
+  },
+  {
+    "id": 51,
+    "sizeClass": "wide",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/20250413_201735.jpg",
+    "alt": "Digha Sea Beach at night",
+    "title": "Digha Sea Beach",
+    "desc": "Night view of waves rolling onto the concrete shoreline at Digha."
+  },
+  {
+    "id": 52,
+    "sizeClass": "wide",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/20250413_202727.jpg",
+    "alt": "Giant chess board in Digha",
+    "title": "Digha Chess Board",
+    "desc": "A large outdoor chess board with oversized chess pieces at a tourist attraction in Digha."
+  },
+  {
+    "id": 53,
+    "sizeClass": "wide",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/20250414_070616.jpg",
+    "alt": "Jagannath Temple in Digha",
+    "title": "Digha Jagannath Temple",
+    "desc": "The iconic Jagannath Temple in Digha, West Bengal, designed as a replica of the Puri temple."
+  },
+  {
+    "id": 54,
+    "sizeClass": "",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/IMG_20220306_173250.jpg",
+    "alt": "Humayun's Tomb in Delhi",
+    "title": "Humayun's Tomb",
+    "desc": "Front view of the grand Mughal monument Humayun's Tomb in New Delhi."
+  },
+  {
+    "id": 55,
+    "sizeClass": "",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/IMG-20190621-WA0004.jpg",
+    "alt": "Humayun's Tomb, Delhi",
+    "title": "Humayun's Tomb",
+    "desc": "Humayun's Tomb in Delhi, photographed from the surrounding Mughal garden complex."
+  },
+  {
+    "id": 57,
+    "sizeClass": "tall",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/IMG_20220307_191102.jpg",
+    "alt": "Viceregal Lodge in Shimla at night",
+    "title": "Viceregal Lodge",
+    "desc": "The illuminated historic Viceregal Lodge, now Rashtrapati Niwas and home of the Indian Institute of Advanced Study in Shimla."
+  },
+  {
+    "id": 58,
+    "sizeClass": "tall",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/IMG_20220308_113215.jpg",
+    "alt": "Shilaroo high altitude training centre",
+    "title": "SAI High Altitude Training Centre",
+    "desc": "View of the Sports Authority of India's Netaji Subhas High Altitude Training Centre at Shilaroo, Himachal Pradesh."
+  },
+  {
+    "id": 59,
+    "sizeClass": "",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/7.jpg",
+    "alt": "Rasmancha in Bishnupur",
+    "title": "Rasmancha, Bishnupur",
+    "desc": "The historic Rasmancha, a distinctive terracotta monument in Bishnupur, West Bengal."
+  },
+  {
+    "id": 60,
+    "sizeClass": "tall",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/12.jpg",
+    "alt": "Scenic island view in Mukutmanipur",
+    "title": "Bonpukuria Deer Park Island, Mukutmanipur",
+    "desc": "A serene island surrounded by the calm waters of the Kangsabati reservoir in Mukutmanipur."
+  },
+{
+    "id": 61,
+    "sizeClass": "wide",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/17.jpg",
+    "alt": "Spotted deer resting by the riverbank in Sundarbans",
+    "title": "Spotted Deer at Sundarbans",
+    "desc": "Spotted deer resting under the shade of dense mangrove trees along the riverbank in the Sundarbans."
+  },
+  {
+    "id": 62,
+    "sizeClass": "wide",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/19.jpg",
+    "alt": "Boat ride on Kangsabati Lake in Mukutmanipur",
+    "title": "Mukutmanipur Lake Boat Ride",
+    "desc": "Enjoying a scenic boat ride across the Mukutmanipur reservoir while playing the flute as a friend takes a photo."
+  },
+
+  {
+    "id": 63,
+    "sizeClass": "tall",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/20250413_192100.jpg",
+    "alt": "Old Digha Sea Beach Park at night",
+    "title": "Old Digha Sea Beach Park",
+    "desc": "An illuminated seafront park and promenade at Old Digha, featuring decorative pavilions and colourful night lighting."
+  },
+  {
+    "id": 64,
+    "sizeClass": "",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/20250413_192211.jpg",
+    "alt": "Digha beach at night",
+    "title": "Digha Sea Beach",
+    "desc": "Nighttime view of the waves and shoreline at Digha."
+  },
+  {
+    "id": 65,
+    "sizeClass": "",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/20250413_192806.jpg",
+    "alt": "Full moon over the sea",
+    "title": "Moon Over Digha",
+    "desc": "A large full moon photographed above the sea at Digha."
+  },
+  {
+    "id": 66,
+    "sizeClass": "wide",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/IMG_20220309_084838.jpg",
+    "alt": "Snow-covered mountains in Chitkul",
+    "title": "Chitkul, Himachal Pradesh",
+    "desc": "A group photograph against the snow-covered Himalayan landscape around Chitkul in Kinnaur."
+  },
+  {
+    "id": 67,
+    "sizeClass": "wide",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/IMG_20220309_113037.jpg",
+    "alt": "Bridge and snow mountains in Chitkul",
+    "title": "Chitkul, Himachal Pradesh",
+    "desc": "A bridge and mountain settlement surrounded by the dramatic snow-covered landscape of Chitkul."
+  },
+  {
+    "id": 68,
+    "sizeClass": "tall",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/IMG_20220309_144633.jpg",
+    "alt": "Chitkul Valley, Himachal Pradesh",
+    "title": "Chitkul Valley",
+    "desc": "A snowy Himalayan landscape in Chitkul Valley, Kinnaur, with a dramatic mountain backdrop and a visitor enjoying the deep snow."
+  },
+  {
+    "id": 69,
+    "sizeClass": "wide",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/IMG_20220309_151557.jpg",
+    "alt": "Chitkul Valley, Himachal Pradesh",
+    "title": "Chitkul Valley",
+    "desc": "A winter view of Chitkul Valley with snow covered mountains, a mountain stream and a visitor standing on a bridge."
+  },
+  {
+    "id": 70,
+    "sizeClass": "tall",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/IMG_20220310_094449.jpg",
+    "alt": "Chitkul, Himachal Pradesh",
+    "title": "Chitkul, Kinnaur",
+    "desc": "A peaceful Himalayan winter scene in Chitkul surrounded by snow covered peaks and conifer forests."
+  },
+  {
+    "id": 71,
+    "sizeClass": "wide",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/IMG_20220310_102940.jpg",
+    "alt": "Chitkul Valley, Himachal Pradesh",
+    "title": "Chitkul Valley",
+    "desc": "A panoramic snowy mountain view from the Chitkul Valley, with a wide open valley and dramatic Himalayan peaks."
+  },
+  {
+    "id": 72,
+    "sizeClass": "wide",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/IMG_20220310_181610.jpg",
+    "alt": "Himalayan mountains in Kinnaur",
+    "title": "Kinnaur Himalayas",
+    "desc": "A mountain photography scene in the Chitkul region, capturing snow covered peaks through a camera."
+  },
+{
+    "id": 73,
+    "sizeClass": "wide",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/IMG_20220311_094533.jpg",
+    "alt": "Kalpa village overlooking the Kinnaur Kailash mountain range",
+    "title": "Kalpa Village, Kinnaur",
+    "desc": "A scenic view of the hillside settlement in Kalpa framed by traditional Himalayan architecture and snow-covered peaks of the Kinnaur Kailash range."
+  },
+  {
+    "id": 74,
+    "sizeClass": "",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/IMG_20220311_164646.jpg",
+    "alt": "Blooming red rhododendron tree against a Himalayan mountain valley in Kinnaur",
+    "title": "Blooming Rhododendron, Kinnaur",
+    "desc": "A vibrant wild rhododendron tree in full red bloom set against the rugged mountain slopes of Kinnaur."
+  },
+  {
+    "id": 75,
+    "sizeClass": "wide",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/IMG_20220312_093344.jpg",
+    "alt": "Kullu Valley, Himachal Pradesh",
+    "title": "Kullu Valley",
+    "desc": "A broad Himalayan river flowing through a mountain valley surrounded by forested slopes and high peaks."
+  },
+  {
+    "id": 76,
+    "sizeClass": "tall",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/IMG_20220313_114705.jpg",
+    "alt": "Dense deodar forest in Manali",
+    "title": "Manali Sanctuary Forest",
+    "desc": "A peaceful trail through the dense pine and deodar forest of Manali, surrounded by moss-covered boulders and tall conifers."
+  },
+  {
+    "id": 77,
+    "sizeClass": "wide",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/IMG_20221016_115914.jpg",
+    "alt": "Kathgola Palace, Murshidabad",
+    "title": "Kathgola Palace",
+    "desc": "A historic palace in Murshidabad, West Bengal, surrounded by landscaped grounds and heritage architecture."
+  },
+  {
+    "id": 78,
+    "sizeClass": "wide",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/IMG_20221016_141301.jpg",
+    "alt": "Hazarduari Palace Museum, Murshidabad",
+    "title": "Hazarduari Palace Museum",
+    "desc": "The grand Hazarduari Palace Museum in Murshidabad, a major heritage landmark of Bengal."
+  },
+  {
+    "id": 79,
+    "sizeClass": "",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/IMG_20221106_143000.jpg",
+    "alt": "Victoria Memorial, Kolkata",
+    "title": "Victoria Memorial",
+    "desc": "Victoria Memorial in Kolkata reflected in the large water body of its landscaped grounds."
+  },
+  {
+    "id": 80,
+    "sizeClass": "tall",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/IMG_20221106_143210.jpg",
+    "alt": "Victoria Memorial, Kolkata",
+    "title": "Victoria Memorial",
+    "desc": "A portrait view in front of Victoria Memorial beside the reflective water garden in Kolkata."
+  },
+{
+    "id": 81,
+    "sizeClass": "wide",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/IMG_20221201_105035.jpg",
+    "alt": "ICTS-TIFR campus courtyard in Bengaluru",
+    "title": "ICTS-TIFR, Bengaluru",
+    "desc": "A modern landscaped courtyard with geometric lawn pathways at the International Centre for Theoretical Sciences (ICTS-TIFR) campus in Bengaluru."
+  },
+  {
+    "id": 82,
+    "sizeClass": "wide",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/IMG_20221202_120818.jpg",
+    "alt": "Indian Institute of Science, Bengaluru",
+    "title": "IISc Campus Road",
+    "desc": "A quiet tree lined road through the green campus of the Indian Institute of Science in Bengaluru."
+  },
+{
+    "id": 83,
+    "sizeClass": "",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/IMG_20221203_160005.jpg",
+    "alt": "Pathway through lush gardens leading to Ujjayanta Palace Rajbari in Agartala",
+    "title": "Ujjayanta Palace (Rajbari), Agartala",
+    "desc": "A scenic walkway bordered by manicured hedges and flowering shrubs leading toward the historic Ujjayanta Palace (Rajbari) in Tripura."
+  },
+{
+    "id": 84,
+    "sizeClass": "wide",
+    "groups": ["india"],
+    "src": "./assets/lightbox/3/PANO_20220310_165752.jpg",
+    "alt": "Homestay apple orchard overlooking snow-capped Kinnaur Kailash peaks in Kalpa",
+    "title": "Kalpa Valley Panorama, Kinnaur",
+    "desc": "A wide panoramic view from a mountain homestay in Kalpa, overlooking bare apple orchards and the majestic snow-clad peaks of the Kinnaur Kailash range."
+  },
+
+
+
+
+  {
+    "id": 85,
+    "sizeClass": "tall",
+    "groups": ["sea"],
+    "src": "./assets/lightbox/4/20251101_162859(1).jpg",
+    "alt": "Vibrant red and golden Japanese maple trees in autumn at Seattle Japanese Garden",
+    "title": "Autumn Japanese Maples, Seattle",
+    "desc": "Brilliant crimson, orange, and golden autumn foliage on Japanese maples framed by lush evergreen trees."
+  },
+  {
+    "id": 86,
+    "sizeClass": "wide",
+    "groups": ["sea"],
+    "src": "./assets/lightbox/4/20241102_170048.jpg",
+    "alt": "Panorama of colorful autumn foliage and garden pathways at Washington Park Arboretum",
+    "title": "Autumn Panorama, Washington Park Arboretum",
+    "desc": "A panoramic walking view surrounded by bright red Japanese maples, yellow fall foliage, and peaceful park trails."
+  },
+  {
+    "id": 87,
+    "sizeClass": "",
+    "groups": ["sea"],
+    "src": "./assets/lightbox/4/20251004_163459.jpg",
+    "alt": "Smiling man sitting on coastal rocks overlooking Puget Sound in Seattle",
+    "title": "Puget Sound Shoreline, Seattle",
+    "desc": "A bright coastal portrait relaxing on rocky breakwater stones along the Puget Sound waterfront."
+  },
+  {
+    "id": 88,
+    "sizeClass": "tall",
+    "groups": ["sea"],
+    "src": "./assets/lightbox/4/20251101_154729.jpg",
+    "alt": "Fallen autumn leaves covering the woodland floor under maple trees",
+    "title": "Fall Foliage Carpet, Seattle",
+    "desc": "A dense woodland carpet of fallen yellow and red maple leaves beneath a vibrant canopy of autumn foliage."
+  },
+  {
+    "id": 89,
+    "sizeClass": "tall",
+    "groups": ["sea"],
+    "src": "./assets/lightbox/4/20251101_154753.jpg",
+    "alt": "Forest trail covered in golden fallen maple leaves in Seattle",
+    "title": "Golden Autumn Trail, Seattle",
+    "desc": "A picturesque walking trail blanketed with fallen golden and scarlet maple leaves winding through tall trees."
+  },
+  {
+    "id": 90,
+    "sizeClass": "tall",
+    "groups": ["sea"],
+    "src": "./assets/lightbox/4/20251101_155002(1).jpg",
+    "alt": "Man admiring vibrant red and orange autumn foliage in a Seattle park",
+    "title": "Autumn Colors, Seattle",
+    "desc": "A visitor pausing to admire the rich red and fiery orange canopy of Japanese maples in full fall bloom."
+  },
+  {
+    "id": 91,
+    "sizeClass": "tall",
+    "groups": ["usa"],
+    "src": "./assets/lightbox/3/20251101_155451.jpg",
+    "alt": "Walkers under a brilliant pink Japanese maple tree canopy and green ferns",
+    "title": "Japanese Maple Canopy, Seattle",
+    "desc": "A striking canopy of magenta-red Japanese maple foliage arching over lush green woodland ferns."
+  },
+  {
+    "id": 92,
+    "sizeClass": "tall",
+    "groups": ["sea"],
+    "src": "./assets/lightbox/4/20251101_155932.jpg",
+    "alt": "Vibrant yellow and scarlet maple trees in autumn over green lawn",
+    "title": "Autumn Splendor, Seattle",
+    "desc": "A radiant display of layered crimson, gold, and amber autumn trees set against lush green grass."
+  },
+  {
+    "id": 93,
+    "sizeClass": "tall",
+    "groups": ["sea"],
+    "src": "./assets/lightbox/4/20251101_160800.jpg",
+    "alt": "Man walking along a leaf-strewn trail beneath a red Japanese maple",
+    "title": "Walking Through Autumn, Seattle",
+    "desc": "Strolling along a dirt trail strewn with fallen autumn leaves under a massive blooming red Japanese maple tree."
+  },
+  {
+    "id": 94,
+    "sizeClass": "tall",
+    "groups": ["sea"],
+    "src": "./assets/lightbox/4/20251101_161534.jpg",
+    "alt": "Close-up of radiant scarlet Japanese maple leaves after rain",
+    "title": "Crimson Maple Leaves, Seattle",
+    "desc": "A vibrant close-up of intricate, bright scarlet Japanese maple leaves glistening among forest ferns."
+  },
+  {
+    "id": 95,
+    "sizeClass": "",
+    "groups": ["sea"],
+    "src": "./assets/lightbox/4/20241117_131926.jpg",
+    "alt": "Wet asphalt street beside bare winter trees and sports field in Seattle",
+    "title": "Rainy Afternoon, Seattle",
+    "desc": "A glistening wet roadway running alongside leafless trees and a green athletic field under an overcast winter sky."
+  },
+  {
+    "id": 96,
+    "sizeClass": "tall",
+    "groups": ["sea"],
+    "src": "./assets/lightbox/4/20241225_172810.jpg",
+    "alt": "King Street Station clock tower and illuminated railroad tracks at night in Seattle",
+    "title": "King Street Station at Night, Seattle",
+    "desc": "Overhead night view looking down railway tracks toward the historic illuminated King Street Station clock tower and city skyline."
+  },
+  {
+    "id": 97,
+    "sizeClass": "wide",
+    "groups": ["sea"],
+    "src": "./assets/lightbox/4/IMG_20240905_002443.jpg",
+    "alt": "Collegiate Gothic building and landscaped courtyard at University of Washington",
+    "title": "University of Washington Campus, Seattle",
+    "desc": "Grand brick and stone collegiate Gothic facade framed by lush green shrubs and trees on a bright sunny day."
+  },
+  {
+    "id": 98,
+    "sizeClass": "wide",
+    "groups": ["sea"],
+    "src": "./assets/lightbox/4/IMG_20240923_104720.jpg",
+    "alt": "Motorboat cruising along the Montlake Cut and Lake Washington Ship Canal in Seattle",
+    "title": "Montlake Cut Waterway, Seattle",
+    "desc": "A white motorboat making its way through the canal waters with floating homes, docks, and city buildings lining the waterfront."
+  },
+  {
+    "id": 99,
+    "sizeClass": "wide",
+    "groups": ["sea"],
+    "src": "./assets/lightbox/4/20241102_173803.jpg",
+    "alt": "Vibrant pink burning bush shrubs and yellow autumn trees in Seattle",
+    "title": "Autumn Burning Bush, Seattle",
+    "desc": "A vibrant bed of fiery hot pink burning bushes surrounded by yellow autumn canopies and fallen foliage."
+  },
+  {
+    "id": 100,
+    "sizeClass": "tall",
+    "groups": ["sea"],
+    "src": "./assets/lightbox/4/IMG_20241013_171050.jpg",
+    "alt": "Husky Stadium plaza with the iconic purple and gold W emblem at University of Washington",
+    "title": "Husky Stadium Plaza, Seattle",
+    "desc": "Open paved plaza outside Husky Stadium featuring the University of Washington 'W' logo under a clear blue afternoon sky."
+  },
+  {
+    "id": 101,
+    "sizeClass": "wide",
+    "groups": ["sea"],
+    "src": "./assets/lightbox/4/IMG_20240920_124021.jpg",
+    "alt": "George Washington statue standing tall in Red Square at University of Washington",
+    "title": "Red Square & George Washington Statue, Seattle",
+    "desc": "Students walking past the prominent bronze George Washington monument on Red Square in the University of Washington campus."
+  },
+  {
+    "id": 102,
+    "sizeClass": "tall",
+    "groups": ["sea"],
+    "src": "./assets/lightbox/4/20241225_173406.jpg",
+    "alt": "Trees wrapped in glowing fairy lights along Occidental Square in Pioneer Square Seattle",
+    "title": "Occidental Square Holiday Lights, Seattle",
+    "desc": "A picturesque brick promenade illuminated by towering trees wrapped in thousands of sparkling holiday fairy lights."
+  },
+  {
+    "id": 103,
+    "sizeClass": "tall",
+    "groups": ["sea"],
+    "src": "./assets/lightbox/4/20241225_194641.jpg",
+    "alt": "Man sitting on a bench on a rainy holiday night in Downtown Seattle",
+    "title": "Holiday Night on Pine Street, Seattle",
+    "desc": "A cozy portrait sitting next to a vintage street clock with wet city streets reflecting neon storefronts and a lit Christmas tree."
+  },
+  {
+    "id": 104,
+    "sizeClass": "tall",
+    "groups": ["sea"],
+    "src": "./assets/lightbox/4/20241225_172834.jpg",
+    "alt": "RapidRide articulated bus passing by Columbia Center skyscraper at night in Downtown Seattle",
+    "title": "Downtown Transit & Skyline, Seattle",
+    "desc": "A red-and-yellow articulated RapidRide bus cruising past sleek modern skyscrapers including the illuminated Columbia Center at night."
+  },
+ {
+    "id": 105,
+    "sizeClass": "",
+    "groups": ["sea"],
+    "src": "./assets/lightbox/4/20250331_152544.jpg",
+    "alt": "Close-up of delicate pink Yoshino cherry blossoms in full bloom at UW Quad",
+    "title": "Cherry Blossom Bloom, UW Seattle",
+    "desc": "A delicate close-up view of soft pink and white Yoshino cherry blossom clusters blooming in early spring."
+  },
+  {
+    "id": 106,
+    "sizeClass": "wide",
+    "groups": ["sea"],
+    "src": "./assets/lightbox/4/20250331_151619.jpg",
+    "alt": "Panoramic view of visitors strolling under blooming cherry trees in the UW Quad",
+    "title": "UW Quad Cherry Blossom Festival, Seattle",
+    "desc": "A panoramic spring scene of students and visitors walking through the iconic University of Washington Quad surrounded by historic architecture and blooming cherry trees."
+  },
+  {
+    "id": 107,
+    "sizeClass": "wide",
+    "groups": ["sea"],
+    "src": "./assets/lightbox/4/20250331_151827.jpg",
+    "alt": "Dense canopy of blossoming cherry tree branches against the sky",
+    "title": "Blossom Canopy, University of Washington",
+    "desc": "An intricate canopy of abundant pale pink cherry blossoms filling the branches on a spring afternoon."
+  },
+  {
+    "id": 108,
+    "sizeClass": "tall",
+    "groups": ["sea"],
+    "src": "./assets/lightbox/4/20250206_095516.jpg",
+    "alt": "Snow-covered University of Washington entrance sign and mosaic pillar in Seattle",
+    "title": "UW Campus in Snow, Seattle",
+    "desc": "A winter scene on the University of Washington campus featuring the snow-covered entrance monument, mosaic pillar, and evergreen shrubs."
+  },
+  {
+    "id": 109,
+    "sizeClass": "wide",
+    "groups": ["sea"],
+    "src": "./assets/lightbox/4/20250331_152900.jpg",
+    "alt": "Wide view of people walking through the cherry blossom lined UW Quad in Seattle",
+    "title": "Spring Cherry Blossoms at UW Quad",
+    "desc": "Visitors strolling along the brick pathways of the University of Washington Quad surrounded by blooming Yoshino cherry trees and Gothic buildings."
+  },
+  {
+    "id": 110,
+    "sizeClass": "wide",
+    "groups": ["sea"],
+    "src": "./assets/lightbox/4/20241229_150246.jpg",
+    "alt": "Industrial coffee roasters and copper silos inside the Starbucks Reserve Roastery in Seattle",
+    "title": "Starbucks Reserve Roastery, Capitol Hill",
+    "desc": "The bustling interior of the flagship Starbucks Reserve Roastery in Capitol Hill, featuring large bronze roasters, silos, and transparent conveyor pipes."
+  },
+
+
+
+
+  {
+  "id": 111,
+  "sizeClass": "tall",
+  "groups": ["US"],
+  "src": "./assets/lightbox/5/20241226_122542.jpg",
+  "alt": "Portrait in rain-speckled hood near Snoqualmie Falls",
+  "title": "Snoqualmie Falls Portrait",
+  "desc": "Rain-soaked scenery and drifting mist frame the powerful white waters of Snoqualmie Falls."
+},
+{
+  "id": 112,
+  "sizeClass": "",
+  "groups": ["US"],
+  "src": "./assets/lightbox/5/20241226_114728.jpg",
+  "alt": "Visitor at the Snoqualmie Falls viewpoint",
+  "title": "Snoqualmie Falls Viewpoint",
+  "desc": "The Snoqualmie Falls viewpoint overlooks the powerful cascade as mist rises through the forested gorge."
+},
+{
+  "id": 113,
+  "sizeClass": "tall",
+  "groups": ["US"],
+  "src": "./assets/lightbox/5/20241226_115419.jpg",
+  "alt": "Rushing waterfall plunging down rocky cliffs at Snoqualmie Falls",
+  "title": "Snoqualmie Falls, Washington",
+  "desc": "Snoqualmie Falls plunges dramatically over rugged cliffs, filling the gorge below with swirling mist."
+},
+{
+  "id": 114,
+  "sizeClass": "",
+  "groups": ["US"],
+  "src": "./assets/lightbox/5/20241226_121003_042.jpg",
+  "alt": "Massive hollow cedar tree stump in the Snoqualmie forest",
+  "title": "Ancient Cedar Stump, Snoqualmie Forest",
+  "desc": "The immense hollow remains of an ancient western red cedar rise from the lush temperate rainforest."
+},
+{
+  "id": 115,
+  "sizeClass": "tall",
+  "groups": ["US"],
+  "src": "./assets/lightbox/5/20241226_122324.jpg",
+  "alt": "Lower Snoqualmie Falls crashing onto rocky riverbank shores",
+  "title": "Lower Snoqualmie Falls",
+  "desc": "Rushing water crashes through jagged boulders along the lower reaches of Snoqualmie Falls, surrounded by dense forest."
+},
+{
+  "id": 116,
+  "sizeClass": "wide",
+  "groups": ["US"],
+  "src": "./assets/lightbox/5/20241227_144051.jpg",
+  "alt": "Peter Iredale shipwreck on the Oregon coast",
+  "title": "Wreck of the Peter Iredale, Oregon",
+  "desc": "The rusted remains of the historic Peter Iredale emerge from the reflective sands of the Pacific shoreline."
+},
+{
+  "id": 117,
+  "sizeClass": "wide",
+  "groups": ["US"],
+  "src": "./assets/lightbox/5/20241226_150129.jpg",
+  "alt": "Visitor standing in deep snow at Alpental Snoqualmie Pass",
+  "title": "Snoqualmie Pass, Cascade Mountains",
+  "desc": "Deep winter snow covers the landscape beneath the rugged, forested peaks of the Cascade Mountains at Alpental."
+},
+{
+  "id": 118,
+  "sizeClass": "wide",
+  "groups": ["US"],
+  "src": "./assets/lightbox/5/20241226_150647.jpg",
+  "alt": "Snow covered peaks and evergreen slopes at Snoqualmie Pass",
+  "title": "Alpental Winter Panorama, Snoqualmie Pass",
+  "desc": "Snow covered alpine ridges and dense evergreen forests stretch across the winter landscape at Snoqualmie Pass."
+},
+{
+  "id": 119,
+  "sizeClass": "tall",
+  "groups": ["US"],
+  "src": "./assets/lightbox/5/20241227_134202.jpg",
+  "alt": "Historic storefronts along holiday decorated Commercial Street in Astoria",
+  "title": "Downtown Astoria, Oregon",
+  "desc": "Rainy streets, historic storefronts, holiday decorations, and vintage signs define the character of downtown Astoria."
+},
+{
+  "id": 120,
+  "sizeClass": "tall",
+  "groups": ["US"],
+  "src": "./assets/lightbox/5/20241227_140755.jpg",
+  "alt": "Astoria Column decorated with holiday lights under an overcast sky",
+  "title": "Astoria Column, Oregon",
+  "desc": "The monumental Astoria Column rises above the surrounding landscape, its spiral murals depicting the history of the Pacific Northwest."
+},
+{
+  "id": 121,
+  "sizeClass": "tall",
+  "groups": ["US"],
+  "src": "./assets/lightbox/5/20241228_100126.jpg",
+  "alt": "Visitor on a moss covered forest path in Olympic National Park",
+  "title": "Rainforest Trail, Olympic National Park",
+  "desc": "A moss covered trail winds through towering evergreens, ferns, and dense rainforest vegetation in Olympic National Park."
+},
+{
+  "id": 122,
+  "sizeClass": "tall",
+  "groups": ["US"],
+  "src": "./assets/lightbox/5/20241228_102230.jpg",
+  "alt": "World's Largest Sitka Spruce Tree in Quinault Rainforest",
+  "title": "World's Largest Sitka Spruce, Lake Quinault",
+  "desc": "The enormous trunk and sprawling roots of the champion Sitka Spruce dominate the surrounding Quinault Rainforest."
+},
+{
+  "id": 123,
+  "sizeClass": "tall",
+  "groups": ["US"],
+  "src": "./assets/lightbox/5/20241228_103308.jpg",
+  "alt": "Lake Quinault shoreline beneath moss covered branches",
+  "title": "Lake Quinault Shoreline",
+  "desc": "Moss and lichen covered branches extend over the quiet waters of Lake Quinault beneath an overcast sky."
+},
+{
+  "id": 124,
+  "sizeClass": "tall",
+  "groups": ["US"],
+  "src": "./assets/lightbox/5/20241228_110229.jpg",
+  "alt": "Cascading waterfall among moss covered rocks in Quinault Rainforest",
+  "title": "Merriman Falls, Quinault Rainforest",
+  "desc": "Merriman Falls cascades through moss covered boulders and lush fern filled rainforest in the Quinault Valley."
+},
+{
+  "id": 125,
+  "sizeClass": "",
+  "groups": ["US"],
+  "src": "./assets/lightbox/5/20241227_153909.jpg",
+  "alt": "Visitors walking toward Haystack Rock on Cannon Beach",
+  "title": "Haystack Rock, Cannon Beach",
+  "desc": "Haystack Rock rises from the broad sands of Cannon Beach, framed by coastal mist, low clouds, and the Pacific surf."
+},
+{
+  "id": 126,
+  "sizeClass": "",
+  "groups": ["US"],
+  "src": "./assets/lightbox/5/20241228_163810.jpg",
+  "alt": "Wooden dock extending into Lake Crescent at dusk",
+  "title": "Lake Crescent, Olympic National Park",
+  "desc": "A long wooden dock extends into the dark, calm waters of Lake Crescent beneath forested mountain slopes at dusk."
+},
+{
+  "id": 127,
+  "sizeClass": "wide",
+  "groups": ["US"],
+  "src": "./assets/lightbox/5/20241228_120859.jpg",
+  "alt": "Kalaloch Beach overlook with stormy Pacific Ocean waves",
+  "title": "Kalaloch Overlook, Olympic Coast",
+  "desc": "Storm driven Pacific waves roll toward the rugged Olympic Coast beneath a windswept coastal tree at Kalaloch."
+},
+{
+  "id": 128,
+  "sizeClass": "wide",
+  "groups": ["US"],
+  "src": "./assets/lightbox/5/20241228_121220.jpg",
+  "alt": "Kalaloch Beach overlook above the Pacific Ocean",
+  "title": "Kalaloch Beach, Washington Coast",
+  "desc": "The grassy coastal bluffs at Kalaloch overlook powerful Pacific waves and the weathered remains of the Tree of Life."
+},
+  {
+    "id": 129,
+    "sizeClass": "tall",
+    "groups": ["US"],
+    "src": "./assets/lightbox/5/20241228_105153.jpg",
+    "alt": "Roosevelt elk camouflaged behind mossy branches in Olympic National Park",
+    "title": "Roosevelt Elk, Quinault Rainforest",
+    "desc": "A wild Roosevelt elk partially hidden behind dense moss-draped branches and ferns in the temperate rainforest."
+  },
+  {
+    "id": 130,
+    "sizeClass": "wide",
+    "groups": ["US"],
+    "src": "./assets/lightbox/5/20241228_111321.jpg",
+    "alt": "Ancient rainforest trees draped heavily in hanging moss and lichens",
+    "title": "Moss Canopy, Quinault Rainforest",
+    "desc": "Towering old-growth trees covered in thick layers of hanging moss and epiphytes in Olympic National Park."
+  },
+
+
+
+
+  
+  {
+    "id": 131,
+    "sizeClass": "wide",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251217_150940.jpg",
+    "alt": "Seagull perched on concrete railing with the Bay Bridge in San Francisco",
+    "title": "Seagull by the Bay Bridge, San Francisco",
+    "desc": "A seagull perched along the Embarcadero promenade with the San Francisco–Oakland Bay Bridge stretching across the blue water."
+  },
+  {
+    "id": 132,
+    "sizeClass": "tall",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251217_151252.jpg",
+    "alt": "Embarcadero promenade walkway facing the Ferry Building clock tower in San Francisco",
+    "title": "The Embarcadero & Ferry Building, San Francisco",
+    "desc": "Sunlit perspective looking down the Embarcadero concrete pier towards the historic Ferry Building clock tower under a clear blue sky."
+  },
+  {
+    "id": 133,
+    "sizeClass": "wide",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251217_152011.jpg",
+    "alt": "Intricate metal mermaid sculpture along the San Francisco waterfront",
+    "title": "Waterfront Sculpture & Bay Bridge, San Francisco",
+    "desc": "A detailed mosaic metal sculpture of a mermaid on the Embarcadero with the Bay Bridge visible across the harbor."
+  },
+  {
+    "id": 134,
+    "sizeClass": "tall",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251217_152429.jpg",
+    "alt": "Symmetrical wooden pier lined with vintage street lamps at Pier 7 San Francisco",
+    "title": "Pier 7 Promenade, San Francisco",
+    "desc": "A scenic walkway along Pier 7 lined with classic ornate street lanterns looking out towards the bay and hills."
+  },
+  {
+    "id": 135,
+    "sizeClass": "wide",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251217_153207.jpg",
+    "alt": "Rear view of a large luxury cruise ship docked at the San Francisco pier",
+    "title": "Cruise Ship at Port of San Francisco",
+    "desc": "A massive multi-deck ocean liner docked at the Embarcadero cruise terminal on a bright sunny afternoon."
+  },
+  {
+    "id": 136,
+    "sizeClass": "wide",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251217_153426.jpg",
+    "alt": "Wide view of a Princess Cruises liner docked beside the modern cruise terminal",
+    "title": "Pier 27 Cruise Terminal, San Francisco",
+    "desc": "A grand Princess Cruises ship berthed alongside the modern glass terminal at Pier 27 with bike-share racks in the foreground."
+  },
+  {
+    "id": 137,
+    "sizeClass": "",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20241227_144643.jpg",
+    "alt": "Rusted shipwreck skeleton of the Peter Iredale on dark wet sand at low tide",
+    "title": "Wreck of the Peter Iredale, Oregon Coast",
+    "desc": "The atmospheric rusted iron frame of the Peter Iredale shipwreck standing starkly against the Pacific surf and moody overcast sky."
+  },
+  {
+    "id": 138,
+    "sizeClass": "wide",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251217_145741.jpg",
+    "alt": "San Francisco–Oakland Bay Bridge spanning vibrant blue bay waters",
+    "title": "San Francisco–Oakland Bay Bridge",
+    "desc": "A crisp, expansive view of the iconic suspension spans and steel towers of the Bay Bridge reaching toward Yerba Buena Island."
+  },
+  {
+    "id": 139,
+    "sizeClass": "",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251217_165747.jpg",
+    "alt": "Golden Gate Bridge at dusk viewed from the San Francisco overlook above Fort Point",
+    "title": "Golden Gate Bridge at Dusk, San Francisco",
+    "desc": "A majestic evening view of the illuminated Golden Gate Bridge spanning across the bay towards the Marin Headlands."
+  },
+  {
+    "id": 140,
+    "sizeClass": "wide",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251217_170450.jpg",
+    "alt": "Smiling man in beanie and jacket posing with Golden Gate Bridge in the background",
+    "title": "Golden Gate Overlook Portrait",
+    "desc": "A side profile portrait smiling against the scenic backdrop of the Golden Gate Bridge and misty coastal waters."
+  },
+  {
+    "id": 141,
+    "sizeClass": "",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251217_170921.jpg",
+    "alt": "Wide view of the Golden Gate Bridge spanning the bay during twilight",
+    "title": "Golden Gate Bridge Vista, San Francisco",
+    "desc": "An expansive twilight panorama capturing the orange suspension towers of the Golden Gate Bridge over the calm strait."
+  },
+  {
+    "id": 142,
+    "sizeClass": "wide",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251217_171850.jpg",
+    "alt": "Silhouette of Monterey cypress trees framing a golden Pacific sunset",
+    "title": "Pacific Sunset through Cypress Trees, Lands End",
+    "desc": "Dramatic dark silhouettes of coastal cypress trees framing a vibrant orange and yellow sunset glowing over the ocean horizon."
+  },
+  {
+    "id": 143,
+    "sizeClass": "wide",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251218_114650.jpg",
+    "alt": "Visitors sitting on steps overlooking formal gardens and sunken walkway in Golden Gate Park",
+    "title": "Conservatory Valley Gardens, Golden Gate Park",
+    "desc": "Two people relaxing on stone steps overlooking manicured flower beds, a golden sculpture, and the lush lawn at Golden Gate Park."
+  },
+  {
+    "id": 144,
+    "sizeClass": "tall",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251218_114727.jpg",
+    "alt": "Towering Canary Island date palms against a clear blue sky in Golden Gate Park",
+    "title": "Palm Court, Golden Gate Park",
+    "desc": "Tall, elegant palm trees rising above lush tropical undergrowth and commemorative stone markers in San Francisco."
+  },
+  {
+    "id": 145,
+    "sizeClass": "wide",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251218_115105.jpg",
+    "alt": "White Victorian glasshouse of the Conservatory of Flowers in Golden Gate Park",
+    "title": "Conservatory of Flowers, San Francisco",
+    "desc": "Symmetrical view of the historic Victorian glass conservatory framed by manicured terraced lawns and towering palm trees."
+  },
+  {
+    "id": 146,
+    "sizeClass": "wide",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251218_120313.jpg",
+    "alt": "Empty wooden park benches under pollarded sycamore trees in Golden Gate Park",
+    "title": "Music Concourse Benches, Golden Gate Park",
+    "desc": "Sunlit wooden benches resting beneath the unique canopy of gnarled, pollarded trees along the concourse."
+  },
+  {
+    "id": 147,
+    "sizeClass": "",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251218_121925.jpg",
+    "alt": "Traditional Chinese pavilion reflected in the calm waters of Stow Lake",
+    "title": "Chinese Pavilion at Stow Lake, Golden Gate Park",
+    "desc": "An ornate green-roofed Chinese pagoda nestled along the forested banks of Stow Lake with ducks floating across shimmering reflections."
+  },
+  {
+    "id": 148,
+    "sizeClass": "tall",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251217_154732.jpg",
+    "alt": "Man standing inside a large illuminated blue holiday ornament archway at Pier 39",
+    "title": "Pier 39 Holiday Tunnel, San Francisco",
+    "desc": "Posing inside a giant glowing blue ornament installation at Pier 39 overlooking the marina and San Francisco Bay."
+  },
+  {
+    "id": 149,
+    "sizeClass": "tall",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251219_121822.jpg",
+    "alt": "VTA light rail tracks running beneath a tree canopy on 1st Street in Downtown San Jose",
+    "title": "1st Street Transit Corridor, San Jose",
+    "desc": "Symmetrical view down light rail transit tracks lined with winter sycamore trees and downtown banners."
+  },
+  {
+    "id": 150,
+    "sizeClass": "tall",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251218_124533.jpg",
+    "alt": "A massive Monterey cypress tree standing on a sunlit green meadow in Golden Gate Park",
+    "title": "Grand Cypress Meadow, Golden Gate Park",
+    "desc": "A wide asphalt footpath curving past an expansive grassy lawn and a towering ancient Monterey cypress under a bright blue sky."
+  },
+  {
+    "id": 151,
+    "sizeClass": "tall",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251218_145243.jpg",
+    "alt": "Seagull standing at the ocean surf edge on Ocean Beach",
+    "title": "Seagull on Ocean Beach, San Francisco",
+    "desc": "A solitary seagull resting on the wet sandy shoreline as foaming Pacific waves wash ashore."
+  },
+  {
+    "id": 152,
+    "sizeClass": "tall",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251218_162909.jpg",
+    "alt": "Grant Avenue in San Francisco Chinatown adorned with hanging red lanterns",
+    "title": "Chinatown Grant Avenue, San Francisco",
+    "desc": "Traditional storefronts and gift shops beneath overhead strings of vibrant red Chinese lanterns along Grant Avenue."
+  },
+  {
+    "id": 153,
+    "sizeClass": "tall",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251218_163931.jpg",
+    "alt": "Trees wrapped in warm glowing fairy lights on 555 California Street plaza",
+    "title": "Holiday Trees at 555 California, San Francisco",
+    "desc": "Rows of trees wrapped in sparkling golden fairy lights illuminating the wide stone plaza in the Financial District."
+  },
+  {
+    "id": 154,
+    "sizeClass": "tall",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251218_165325.jpg",
+    "alt": "Historic triangular Phelan Building at the intersection of Market and O'Farrell Streets",
+    "title": "Phelan Flatiron Building, San Francisco",
+    "desc": "Low-angle perspective of the historic flatiron-style Phelan Building standing prominently at a busy downtown intersection."
+  },
+  {
+    "id": 155,
+    "sizeClass": "tall",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251218_181446.jpg",
+    "alt": "Night view of San Francisco skyline with illuminated Transamerica Pyramid and Coit Tower",
+    "title": "Downtown Skyline at Night, San Francisco",
+    "desc": "A colorful night vista looking down city streets toward the brightly lit Transamerica Pyramid and festive skyscrapers."
+  },
+  {
+    "id": 156,
+    "sizeClass": "tall",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251218_181844.jpg",
+    "alt": "Night street traffic leading toward illuminated skyscrapers and Salesforce Tower",
+    "title": "Bush Street Night View, San Francisco",
+    "desc": "Evening perspective looking down Bush Street toward high-rise office towers and the glowing crown of Salesforce Tower."
+  },
+  {
+    "id": 157,
+    "sizeClass": "tall",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251219_134255.jpg",
+    "alt": "Cathedral Basilica of St. Joseph under a clear sky in San Jose",
+    "title": "Cathedral Basilica of St. Joseph, San Jose",
+    "desc": "The ornate neoclassical towers and grand domes of the historic Cathedral Basilica of St. Joseph on San Fernando Street."
+  },
+  {
+    "id": 158,
+    "sizeClass": "tall",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251219_135143.jpg",
+    "alt": "Man standing along a decorated holiday pathway at Christmas in the Park in San Jose",
+    "title": "Christmas in the Park, San Jose",
+    "desc": "Standing along a festive boardwalk bordered by decorated pine trees and whimsical holiday displays in Plaza de César Chávez."
+  },
+  {
+    "id": 159,
+    "sizeClass": "tall",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251219_141430.jpg",
+    "alt": "Avenue lined with tall palm trees and Sharks banner in Downtown San Jose",
+    "title": "Palm Tree Boulevard, San Jose",
+    "desc": "A wide city street lined with towering California fan palms and San Jose Sharks banners on a bright day."
+  },
+  {
+    "id": 160,
+    "sizeClass": "tall",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251220_111601.jpg",
+    "alt": "Double-decker San Francisco Carousel glowing under an overcast sky at Pier 39",
+    "title": "San Francisco Carousel, Pier 39",
+    "desc": "The colorful, hand-painted two-story carousel illuminated with warm lights on the wet wooden deck of Pier 39."
+  },
+  {
+    "id": 161,
+    "sizeClass": "tall",
+    "groups": ["CF"],
+    "src": "./assets/lightbox/6/20251220_162839.jpg",
+    "alt": "Overhead view of heavy highway traffic approaching the Bay Bridge toll plaza in Oakland",
+    "title": "Bay Bridge Toll Plaza Traffic, Oakland",
+    "desc": "An elevated perspective of busy highway overpasses and dense red taillights heading towards San Francisco across the bay."
+  },
+
+
+
+
+  {
+    "id": 162,
+    "sizeClass": "tall",
+    "groups": ["graz"],
+    "src": "./assets/lightbox/7/20260426_155911.jpg",
+    "alt": "Pink cherry blossom petals carpeting a sunlit park path in Graz",
+    "title": "Spring Blossom Carpet, Graz",
+    "desc": "A vibrant green meadow and paved walkway covered in fallen pink cherry blossom petals under blooming trees on a sunny spring day."
+  },
+  {
+    "id": 163,
+    "sizeClass": "wide",
+    "groups": ["graz"],
+    "src": "./assets/lightbox/7/20260426_160123.jpg",
+    "alt": "Portrait beneath blooming pink cherry blossom branches under blue skies",
+    "title": "Spring Portrait in Graz",
+    "desc": "A sunny outdoor portrait framed by the delicate pink canopy of blossoming cherry trees in Graz."
+  },
+  {
+    "id": 164,
+    "sizeClass": "tall",
+    "groups": ["graz"],
+    "src": "./assets/lightbox/7/20260426_160805.jpg",
+    "alt": "Tree-lined avenue of flowering cherry trees with dappled sunlight in Graz",
+    "title": "Blossom Avenue, Graz",
+    "desc": "Strollers and families enjoying a peaceful walk along a shaded park path beneath a blooming canopy of pink cherry blossom trees."
+  },
+  {
+    "id": 165,
+    "sizeClass": "tall",
+    "groups": ["graz"],
+    "src": "./assets/lightbox/7/20260610_163611.jpg",
+    "alt": "Rows of historical wheellock and flintlock pistols displayed at the Landeszeughaus armoury in Graz",
+    "title": "Historical Armoury, Landeszeughaus Graz",
+    "desc": "Intricate bone-inlaid historical firearms and wheellock pistols neatly arranged on wooden racks inside the historic Styrian Armoury."
+  },
+  {
+    "id": 166,
+    "sizeClass": "tall",
+    "groups": ["graz"],
+    "src": "./assets/lightbox/7/20260426_155238.jpg",
+    "alt": "Dense clusters of double-flowered pink cherry blossoms against a clear blue sky",
+    "title": "Pink Cherry Blossoms, Graz",
+    "desc": "Abundant clusters of fluffy pink cherry blossoms contrasting beautifully against the deep blue spring sky."
+  },
+  {
+    "id": 167,
+    "sizeClass": "wide",
+    "groups": ["graz"],
+    "src": "./assets/lightbox/7/20260426_155321.jpg",
+    "alt": "Macro close-up of delicate pink blossoms on a tree branch",
+    "title": "Spring Blossom Detail",
+    "desc": "A detailed close-up capturing the delicate texture of pink petals bathed in warm afternoon sunlight."
+  },
+  {
+    "id": 168,
+    "sizeClass": "",
+    "groups": ["graz"],
+    "src": "./assets/lightbox/7/20260426_155733.jpg",
+    "alt": "Expansive green meadow and rolling hills with people relaxing on a sunny day in Graz",
+    "title": "Rosenhain Meadow, Graz",
+    "desc": "An expansive panoramic view of lush rolling green parklands and blooming orchards overlooking the city hills under a bright blue sky."
+  },
+  {
+    "id": 169,
+    "sizeClass": "tall",
+    "groups": ["graz"],
+    "src": "./assets/lightbox/7/20260613_141710.jpg",
+    "alt": "Cobblestone pedestrian street lined with historic facades and boutique shops in Graz Old Town",
+    "title": "Sporgasse, Graz Old Town",
+    "desc": "A vibrant stroll along the historic cobblestone Sporgasse lined with outdoor cafes, shops, and ornate stucco facades."
+  },
+  {
+    "id": 170,
+    "sizeClass": "tall",
+    "groups": ["graz"],
+    "src": "./assets/lightbox/7/20260610_165907.jpg",
+    "alt": "16th-century tournament knight armor and barded horse armor at Landeszeughaus in Graz",
+    "title": "Knight & Horse Armour, Landeszeughaus Graz",
+    "desc": "An imposing display of complete steel plate armor for both knight and horse surrounded by suits of armor inside the historic Landeszeughaus."
+  },
+  {
+    "id": 171,
+    "sizeClass": "",
+    "groups": ["graz"],
+    "src": "./assets/lightbox/7/20260613_124330.jpg",
+    "alt": "Friends enjoying lunch on a sunny lawn outside the University of Graz main building",
+    "title": "Campus Lawn, University of Graz",
+    "desc": "A relaxing sunny afternoon enjoying lunch at outdoor wooden benches on the lush green campus grounds of the University of Graz."
+  },
+  {
+    "id": 172,
+    "sizeClass": "tall",
+    "groups": ["graz"],
+    "src": "./assets/lightbox/7/20260613_132251.jpg",
+    "alt": "Lush tree-lined walking avenue with vintage streetlamps in Graz Stadtpark",
+    "title": "Stadtpark Promenade, Graz",
+    "desc": "A serene gravel promenade shaded by dense green chestnut trees and lined with classic dark green park lanterns in the heart of Graz."
+  },
+  {
+    "id": 173,
+    "sizeClass": "wide",
+    "groups": ["graz"],
+    "src": "./assets/lightbox/7/20260613_141904.jpg",
+    "alt": "Graz Town Hall Rathaus overlooking Hauptplatz with bustling crowd and tram lines",
+    "title": "Graz Rathaus & Hauptplatz",
+    "desc": "The grand historic facade and central dome of the Graz Town Hall (Rathaus) towering over the bustling main square under a bright summer sky."
+  },
+
+
+
+
+
+  {
+    "id": 174,
+    "sizeClass": "tall",
+    "groups": ["aus"],
+    "src": "./assets/lightbox/8/20260614_142807.jpg",
+    "alt": "Wooden boardwalk trail leading across alpine meadows on Schöckl mountain",
+    "title": "Schöckl Mountain Plateau, Styria",
+    "desc": "A scenic wooden boardwalk winding along the lush green plateau of Mount Schöckl with panoramic views of distant hills under a dramatic sky."
+  },
+  {
+    "id": 175,
+    "sizeClass": "wide",
+    "groups": ["aus"],
+    "src": "./assets/lightbox/8/20260614_143315.jpg",
+    "alt": "Rocky alpine trail with limestone boulders and summit cross on Schöckl",
+    "title": "Alpine Trail & Summit Cross, Schöckl",
+    "desc": "A rugged mountain path strewn with white limestone rocks leading past alpine pines toward the summit cross under stormy summer clouds."
+  },
+  {
+    "id": 176,
+    "sizeClass": "tall",
+    "groups": ["aus"],
+    "src": "./assets/lightbox/8/20260614_144252.jpg",
+    "alt": "Rolling green hills, rural farmsteads, and winding country roads in Styria",
+    "title": "Styrian Countryside & Alpine Pastures",
+    "desc": "A picturesque bird's-eye view of traditional red-roofed Austrian farmhouses nestled among vibrant green alpine meadows and dense evergreen forests."
+  },
+  {
+    "id": 177,
+    "sizeClass": "tall",
+    "groups": ["aus"],
+    "src": "./assets/lightbox/8/20260614_144338.jpg",
+    "alt": "Misty panoramic view over layered green valleys and distant alpine villages",
+    "title": "Misty Valley Panorama, Styria",
+    "desc": "An expansive mountain view overlooking misty layers of rolling green hills, dense pine forests, and scattered alpine settlements."
+  },
+  {
+    "id": 178,
+    "sizeClass": "tall",
+    "groups": ["aus"],
+    "src": "./assets/lightbox/8/20260614_144738.jpg",
+    "alt": "Man sitting in wildflower meadow gazing over the vast Austrian landscape",
+    "title": "Resting on the Slopes of Schöckl",
+    "desc": "Sitting among yellow buttercups on the grassy mountain slopes, taking in the sweeping panoramic vista of the Styrian valley below."
+  },
+  {
+    "id": 179,
+    "sizeClass": "wide",
+    "groups": ["aus"],
+    "src": "./assets/lightbox/8/20260616_183116.jpg",
+    "alt": "Rooftop panorama of Graz featuring red-tiled roofs and Kunsthaus Graz",
+    "title": "Graz Cityscape & Kunsthaus from Schlossberg",
+    "desc": "An elevated view of Graz Old Town showcasing sea of terracotta tile roofs, historic church towers, and the futuristic architecture of the Kunsthaus."
+  },
+  {
+    "id": 180,
+    "sizeClass": "wide",
+    "groups": ["aus"],
+    "src": "./assets/lightbox/8/20260614_141448.jpg",
+    "alt": "Aerial view from Schöckl cable car looking down at valley villages and forests",
+    "title": "Schöckl Seilbahn View, Styria",
+    "desc": "A breathtaking aerial panorama captured from the Schöckl cable car overlooking dense spruce forests, rolling green pastures, and valley villages."
+  },
+  {
+    "id": 181,
+    "sizeClass": "tall",
+    "groups": ["aus"],
+    "src": "./assets/lightbox/8/20260614_142130.jpg",
+    "alt": "Smiling man in cap at wooden fence overlook on Mount Schöckl",
+    "title": "Schöckl Mountain Overlook",
+    "desc": "A cheerful portrait standing beside a rustic wooden fence with sweeping views of the green Styrian hills and horizon stretching out behind."
+  },
+  {
+    "id": 182,
+    "sizeClass": "tall",
+    "groups": ["aus"],
+    "src": "./assets/lightbox/8/20260620_174409.jpg",
+    "alt": "Man standing in front of the ornate Residenzbrunnen fountain and Salzburg Glockenspiel tower",
+    "title": "Residenzplatz & Glockenspiel, Salzburg",
+    "desc": "A sunny afternoon portrait on the cobblestones of Residenzplatz with the historic baroque marble fountain and Salzburg Museum bell tower."
+  },
+  {
+    "id": 183,
+    "sizeClass": "",
+    "groups": ["aus"],
+    "src": "./assets/lightbox/8/20260620_192433.jpg",
+    "alt": "Historic pink and white facade of Café Bazar with corner domes along the Salzach riverbank in Salzburg",
+    "title": "Café Bazar along the Salzach, Salzburg",
+    "desc": "The ornate neoclassical facade and decorative black domes of the famous historic Café Bazar basking in warm evening sunlight."
+  },
+  {
+    "id": 184,
+    "sizeClass": "wide",
+    "groups": ["aus"],
+    "src": "./assets/lightbox/8/20260621_124651.jpg",
+    "alt": "Historic alpine village of Hallstatt nestled at the foot of towering mountains beside Lake Hallstatt",
+    "title": "Hallstatt Village & Lake Hallstatt",
+    "desc": "A breathtaking lakeside view of the iconic UNESCO World Heritage village of Hallstatt pressed against steep, forested alpine cliffs."
+  },
+  {
+    "id": 185,
+    "sizeClass": "tall",
+    "groups": ["aus"],
+    "src": "./assets/lightbox/8/20260621_124749.jpg",
+    "alt": "Man standing with luggage on the shores of Lake Hallstatt looking toward the mountains",
+    "title": "Arriving at Lake Hallstatt, Salzkammergut",
+    "desc": "Standing on the scenic green shores with travel luggage, taking in the crystal-clear alpine waters and mountain peaks across Hallstatt."
+  },
+  {
+    "id": 186,
+    "sizeClass": "tall",
+    "groups": ["aus"],
+    "src": "./assets/lightbox/8/20260616_191150.jpg",
+    "alt": "Happy man smiling from the Schlossberg terrace overlooking the city of Graz",
+    "title": "Schlossberg Rooftop Overlook, Graz",
+    "desc": "A joyful portrait on the observation terrace of Schlossberg with sweeping panoramic views of Graz and rolling hills under dramatic clouds."
+  },
+  {
+    "id": 187,
+    "sizeClass": "tall",
+    "groups": ["aus"],
+    "src": "./assets/lightbox/8/20260617_154841.jpg",
+    "alt": "Intricate baroque frescoes and marble altars inside the Basilica Mariatrost in Graz",
+    "title": "Basilica Mariatrost Interior, Graz",
+    "desc": "The magnificent high-baroque nave featuring ornate ceiling frescoes, golden chandeliers, and checkered marble floor inside the pilgrimage church of Mariatrost."
+  },
+  {
+    "id": 188,
+    "sizeClass": "",
+    "groups": ["aus"],
+    "src": "./assets/lightbox/8/20260617_162312.jpg",
+    "alt": "Open green meadow and yellow manor building under blue sky near Mariatrost in Graz",
+    "title": "Mariatrost Countryside, Graz",
+    "desc": "A peaceful summer landscape featuring expansive green fields, traditional country estates, and fluffy white clouds over the hills of Styria."
+  },
+  {
+    "id": 189,
+    "sizeClass": "wide",
+    "groups": ["aus"],
+    "src": "./assets/lightbox/8/20260620_095425.jpg",
+    "alt": "Ski lift pylon overlooking mountain valley and village near Nassfeld in Carinthia",
+    "title": "Alpine Cableway & Carnic Alps, Carinthia",
+    "desc": "A chairlift pylon standing over golden meadow grass with sweeping views of the village below and the rugged peaks of the Carnic Alps."
+  }
+]
